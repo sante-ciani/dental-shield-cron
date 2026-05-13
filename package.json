@@ -1,0 +1,7 @@
+{
+  "name": "dental-shield-cron",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'ok'"
+  }
+}
